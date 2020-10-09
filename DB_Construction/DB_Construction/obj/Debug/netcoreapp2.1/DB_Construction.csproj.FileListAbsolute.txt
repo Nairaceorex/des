@@ -1,0 +1,13 @@
+N:\DB_Construction\DB_Construction\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+N:\DB_Construction\DB_Construction\bin\Debug\netcoreapp2.1\DB_Construction.deps.json
+N:\DB_Construction\DB_Construction\bin\Debug\netcoreapp2.1\DB_Construction.runtimeconfig.json
+N:\DB_Construction\DB_Construction\bin\Debug\netcoreapp2.1\DB_Construction.runtimeconfig.dev.json
+N:\DB_Construction\DB_Construction\bin\Debug\netcoreapp2.1\DB_Construction.dll
+N:\DB_Construction\DB_Construction\obj\Debug\netcoreapp2.1\DB_Construction.csprojAssemblyReference.cache
+N:\DB_Construction\DB_Construction\obj\Debug\netcoreapp2.1\DB_Construction.AssemblyInfoInputs.cache
+N:\DB_Construction\DB_Construction\obj\Debug\netcoreapp2.1\DB_Construction.AssemblyInfo.cs
+N:\DB_Construction\DB_Construction\obj\Debug\netcoreapp2.1\DB_Construction.genruntimeconfig.cache
+N:\DB_Construction\DB_Construction\bin\Debug\netcoreapp2.1\DB_Construction.pdb
+N:\DB_Construction\DB_Construction\obj\Debug\netcoreapp2.1\DB_Construction.dll
+N:\DB_Construction\DB_Construction\obj\Debug\netcoreapp2.1\DB_Construction.pdb
+N:\DB_Construction\DB_Construction\obj\Debug\netcoreapp2.1\DB_Construction.csproj.CoreCompileInputs.cache
